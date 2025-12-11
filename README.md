@@ -14,7 +14,7 @@ This repository contains practical exercises exploring the foundations of LLMs, 
 
 ## Getting Started
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A4VvPdPNoARnTzpuIoQJpI3nWTbXwOcv?usp=sharing#scrollTo=m2s4kN_QPQVe)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1g0wLPcRasMe6INBK8Kg_5co0geoLeCst?usp=sharing)
 
 1. **Make a copy of the notebook in your own Google Drive before running it** (File → Save a copy in Drive).
 2. Follow the notebook sequentially and run each cell interactively.
